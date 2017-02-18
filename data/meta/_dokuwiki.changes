@@ -44,3 +44,13 @@
 1487297254	::1	C	school:biology	brendan	created		116
 1487297332	::1	E	school:english3	brendan			72
 1487297435	::1	E	school:history	brendan			121
+1487428357	::1	E	home	brendan			-55
+1487428399	::1	C	studyskills:studyskills	brendan	↷ Page moved and renamed from research:research to studyskills:studyskills		13
+1487428399	::1	D	research:research	brendan	↷ Page moved and renamed from research:research to studyskills:studyskills		-13
+1487428399	::1	e	home	brendan	↷ Links adapted because of a move operation		6
+1487428399	::1	e	wiki:navigation	brendan	↷ Links adapted because of a move operation		6
+1487428454	::1	E	wiki:navigation	brendan			-26
+1487428499	::1	E	wiki:navigation	brendan			42
+1487428557	::1	E	studyskills:studyskills	brendan			4
+1487429221	::1	E	wiki:navigation	brendan			26
+1487429236	::1	C	grades:grades	brendan	created		11
