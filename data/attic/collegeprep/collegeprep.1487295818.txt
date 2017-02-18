@@ -1,0 +1,10 @@
+= College Prep =
+{{tag>college-prep}}
+{{entry>college_prep}}
+
+== PSAT ==
+[[collegeprep:psat|PSAT]]
+
+
+== PACT ==
+[[collegeprep:PSAT]]
